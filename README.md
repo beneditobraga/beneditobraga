@@ -18,7 +18,7 @@ I'm Benê from Brazil 🇧🇷
 
     🔭 Passionate about data and software engineering
 
-    📚 Learning Python, C, Go, SQL, and Git
+    📚 Constant learner, always exploring new tools and concepts
 
     🐧 Linux enthusiast and daily user
 
@@ -67,7 +67,6 @@ I'm Benê from Brazil 🇧🇷
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/beneditobraga/beneditobraga/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/beneditobraga/beneditobraga/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/beneditobraga/beneditobraga/output/pacman-contribution-graph.svg">
+  <img alt="" src="https://raw.githubusercontent.com/beneditobraga/beneditobraga/output/pacman-contribution-graph.svg">
 </picture>
 
-###
