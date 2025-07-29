@@ -58,7 +58,7 @@ I'm Benê from Brazil 🇧🇷
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=beneditobraga&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
